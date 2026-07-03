@@ -216,7 +216,7 @@ p  { margin: 0 0 1rem; }
 /* ---------- contact ---------- */
 .contact-grid {
   display: grid; gap: 1.25rem;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   margin-top: 2rem;
 }
 .contact-card {
