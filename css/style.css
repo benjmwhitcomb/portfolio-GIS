@@ -100,10 +100,6 @@ p  { margin: 0 0 1rem; }
 
 /* ---------- hero ---------- */
 .hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--line); }
-.hero-contours {
-  position: absolute; inset: 0; width: 100%; height: 100%;
-  opacity: .5; pointer-events: none; color: var(--line);
-}
 .hero-inner { position: relative; padding: 5.5rem 0 4.5rem; }
 .hero h1 { max-width: 14ch; }
 .hero .lede { font-size: 1.15rem; color: var(--ink-soft); max-width: 52ch; }
