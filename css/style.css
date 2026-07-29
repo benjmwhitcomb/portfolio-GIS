@@ -1,10 +1,7 @@
-/* ============================================================
-   Benjamin Whitcomb — GIS Portfolio
-   ============================================================ */
 
 :root {
-  --paper:        #f4f1e9;   /* bone / map paper       */
-  --paper-2:      #ece7db;   /* slightly deeper panel  */
+  --paper:        #FFFFFF;   /* bone / map paper       */
+  --paper-2:      #FFFFFF;   /* slightly deeper panel  */
   --ink:          #23292b;   /* near-black slate ink   */
   --ink-soft:     #4a5459;   /* secondary text         */
   --line:         #cfc7b4;   /* hairline / contour     */
